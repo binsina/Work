@@ -9,6 +9,8 @@ public class Discount {
 		 
 		 int purchase=0,DiscountPrice;
 		 
+		 
+		 
 		 		 Scanner input = new Scanner (System.in);
          
         JOptionPane.showMessageDialog(null,"         " + "Discount 10% Program");

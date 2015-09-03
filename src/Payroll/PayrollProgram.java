@@ -18,6 +18,7 @@ public class PayrollProgram
 				double tax;
 				boolean end = false;
 
+				
 			System.out.println("Welcome to the Payroll Program!\n");
 			JOptionPane.showMessageDialog(null,"Welcome to the Payroll Program!\n");
 			

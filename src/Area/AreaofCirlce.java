@@ -13,7 +13,6 @@ package Area;
 		 //Scanner scan = new Scanner (System.in);
 	   
 	         
-	  
 		  
 		    {
 		         Scanner input = new Scanner (System.in);
@@ -24,8 +23,7 @@ package Area;
 		    
 		   JOptionPane.showInputDialog(null,"Enter Radius:");
 		    radius = input.nextDouble();
-		    
-		    		    	  	   
+		        		    	  	   
 		 	   
 		 	   
 		 	   System.out.print("Enter the Radius : "); 

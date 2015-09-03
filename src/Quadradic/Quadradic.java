@@ -17,7 +17,8 @@ public class Quadradic {
 
 	    System.out.print("Enter the value of a : "); 
 	    a = input.nextDouble();
-	           
+	      
+	    
 	    System.out.print("Enter the value of b : "); 
 	    b = input.nextDouble();
 	 

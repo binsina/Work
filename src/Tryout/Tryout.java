@@ -23,7 +23,6 @@ public class Tryout {
          JOptionPane.showConfirmDialog(null,"Are you ready to Play!!!!");
          //use prompt window screen to interact with user           
          
-
          
 	    String message1 = "Please Enter your Name to begin the Game'?";
          JOptionPane.showInputDialog(message1);
